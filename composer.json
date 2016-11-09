@@ -1,0 +1,14 @@
+{
+  "name": "flaveris/file-url-php",
+  "description": "Convert a path to a file url, for example: file.pdf -> file:///Users/sindresorhus/file.pdf ",
+  "keywords": ["php", "file url", "file uri"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomas",
+      "email": "tomas@tomasvysniauskas.lt"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
